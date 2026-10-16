@@ -8,10 +8,6 @@ The current patch requires the exact reference `dr2.exe` reporting **1.458.0.0**
 
 ## Installation
 
-Select an existing installation containing the supported source files. Close the experimental game first. The patch reconstructs files under `Experimental pathing`, preserves existing addon settings and leaves base files unchanged. Start the addon using `Experimental pathing/Enable Experimental add-on.cmd`. There is no automatic uninstaller.
-
-The release includes mapping, checksum and validation reports. All 1,803 outputs were checked in isolated installation tests; gameplay was not launched in those fixtures. Base archives and middleware are required and are not bundled. This repository commit contains release documentation, not a matching engine-source snapshot.
-
-Licence status remains unresolved; binary patch delivery does not establish distribution permission.
+Select an existing installation containing the supported source files. The patch reconstructs files under `Experimental pathing`, preserves existing addon settings and leaves base files unchanged. Start the addon using `Experimental pathing/Enable Experimental add-on.cmd`. There is no automatic uninstaller.
 
 THIS MATERIAL IS NOT MADE OR SUPPORTED BY ACTIVISION.
